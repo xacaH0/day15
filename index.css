@@ -1,0 +1,25 @@
+body{
+    margin:0;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+
+}
+#ul.nav_bar {
+    display: inline;
+}
+ul{
+    margin-right: 50px;
+}
+img{
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 200px;
+}
+
+div.form-search{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+}
